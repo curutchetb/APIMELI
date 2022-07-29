@@ -1,8 +1,8 @@
-# API Mercado Libre  🖥️
+# API MeLI  🖥️
 
 
-- 1: Crear una API REST, con el servicio “/coupon/” en donde se pueda enviar la lista de item_ids y el monto del cupón. El endpoint debe devolver los items que tendría que comprar el usuario.
-- 2: Definir e implementar un endpoint el cual devuelva el top 5 de items más “favoriteados” a partir del endpoint anterior.
+- 1: Crear una API REST, en donde se pueda envie lista de items y el monto del cupón. devolver items que tendría que comprar el user.
+- 2: devuelver el top 5 de items más likeados por los users
 
 # Indice
 
