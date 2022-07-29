@@ -1,0 +1,10 @@
+com.apiMeli.apimeli
+com.apiMeli.apimeli.controllers
+com.apiMeli.apimeli.entities
+com.apiMeli.apimeli.exceptions
+com.apiMeli.apimeli.models.requests
+com.apiMeli.apimeli.models.responses
+com.apiMeli.apimeli.repositories
+com.apiMeli.apimeli.security
+com.apiMeli.apimeli.services
+com.apiMeli.apimeli.shared.dto
